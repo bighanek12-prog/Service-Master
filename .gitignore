@@ -1,0 +1,18 @@
+﻿# Local / environment files
+.env
+.env.*
+!.env.example
+
+# PHP / server temporary files
+*.log
+
+# User uploads / generated files
+uploads/
+temp/
+tmp/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
